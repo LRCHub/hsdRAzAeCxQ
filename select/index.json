@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "アイディスマイル",
+  "base_artist": "宵崎奏",
+  "createdAt": "2026-02-26T14:10:55.524585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク",
+      "has_synced": true,
+      "path": "select/01_アイディスマイル_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_アイディスマイル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイディスマイル (instrumental)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_アイディスマイル_(instrumental)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/04_アイディスマイル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/05_アイディスマイル_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク",
+      "has_synced": true,
+      "path": "select/06_アイディスマイル_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイディスマイル (feat. 宵崞奏&朝比奈まふゆ&東雲絵名&暁山瑞帜&meiko)",
+      "artist": "25時、ペイトコードで。",
+      "has_synced": true,
+      "path": "select/07_アイディスマイル_(feat._宵崞奏&朝比奈まふゆ&東雲絵名&暁山瑞帜&meiko)_25時、ペイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "android.media.metadata.ARTIST",
+      "has_synced": true,
+      "path": "select/08_アイディスマイル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_android.media.metadata.ARTIST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイディスマイル (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "android.media.metadata.ARTIST",
+      "has_synced": false,
+      "path": "select/09_アイディスマイル_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_android.media.metadata.ARTIST.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。[宵崎奏(CV.楠木ともり)、朝比奈まふゆ(CV.田辺留依)、東雲絵名(CV.鈴木みのり)、暁山瑞希(CV.佐藤日向)]",
+      "has_synced": true,
+      "path": "select/10_アイディスマイル_25時、ナイトコードで。[宵崎奏(CV.楠木ともり)、朝比奈まふゆ(CV.田辺留依)、東雲絵名(CV.鈴木みのり)、暁山瑞希(CV.佐藤日向)].lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイディスマイル / Vocal:東雲 絵名",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/11_アイディスマイル___Vocal_東雲_絵名_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイディスマイル (Mafuyu)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/12_アイディスマイル_(Mafuyu)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイディスマイル / Vocal:暁山 瑞希",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/13_アイディスマイル___Vocal_暁山_瑞希_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO",
+      "has_synced": true,
+      "path": "select/14_アイディスマイル_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/15_アイディスマイル_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "IDSMILE\u001fアイディスマイル",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/16_IDSMILE_アイディスマイル_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アイディスマイル",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向)",
+      "has_synced": false,
+      "path": "select/17_アイディスマイル_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アイディスマイル (Mizuki)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/18_アイディスマイル_(Mizuki)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイディスマイル",
+      "artist": "宵崎奏",
+      "has_synced": false,
+      "path": "select/pl_01_アイディスマイル_宵崎奏.txt"
+    }
+  ]
+}
